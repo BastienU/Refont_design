@@ -19,4 +19,4 @@ Les lignes 58 et 59 sont inutiles.
 Le fichier app.js n'est jamais appelé.
 Les liens "#" ne sont redirigent pas vers une URL valide.
 
-Lien repository : https://github.com/BastienU/Refont_design.git
+Lien de déploiement : https://bastienu.github.io/Refont_design/
